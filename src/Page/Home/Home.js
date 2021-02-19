@@ -1,8 +1,5 @@
 
-
-
 import Main from '../../component/Main/Main';
-
 
 
 function Home() {
